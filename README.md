@@ -82,15 +82,87 @@ These are the stories I'm working on at the moment.
 
 </p>
 
-## 🎬 Filmography
+> "Every frame has a purpose. Every line of code should too."
 
-...
+# 🎬 Filmography
+
+<p align="center">
+  <img src="stills/blade_runner_gosling_and_ford.jpg" width="85%">
+</p>
+
+Every project has been another opportunity to learn, experiment, and become a better engineer.
 
 ---
 
+### 🤖 OrchestrAI
 
+> *An AI orchestration platform for coordinating multiple agents and workflows.*
+
+**Tech:** Python • FastAPI • LLMs • AI Agents
+
+- Designed to orchestrate AI workflows through a unified interface.
+- Focused on modularity, extensibility, and scalable agent execution.
+- Currently under active development.
 
 ---
+
+### 🎟 Chillr
+
+> *A full-stack ticket booking ecosystem.*
+
+**Tech:** React Native • Node.js • Express • MongoDB • Clerk
+
+- Complete booking flow with authentication.
+- Modern UI built using Expo Router.
+- Designed with scalability and usability in mind.
+
+---
+
+### 🗄️ CMU BusTub
+
+> *Building a database system from the ground up.*
+
+**Tech:** C++ • CMake
+
+- Implementing core DBMS components.
+- Exploring storage engines, indexing, and query execution.
+- Following Carnegie Mellon Database Systems.
+
+---
+
+### 📞 WebRTC Video Calling
+
+> *Real-time communication over the web.*
+
+**Tech:** React • Express • Socket.IO • WebRTC
+
+- Secure peer-to-peer audio/video communication.
+- HTTPS signaling server.
+- Multi-user video conferencing.
+
+---
+
+### 🧠 LLM Policy Assistant
+
+> *Retrieval-Augmented Generation for policy documents.*
+
+**Tech:** FastAPI • LanceDB • Groq • Python
+
+- Semantic document retrieval.
+- PDF ingestion and processing.
+- AI-powered policy question answering.
+
+---
+
+### 🔥 CF Daily
+
+> *A browser extension for staying consistent with competitive programming.*
+
+**Tech:** JavaScript • HTML • CSS
+
+- Daily Codeforces reminders.
+- Progress tracking.
+- Productivity-focused design.
 
 ## 🏆 Side Quests
 
