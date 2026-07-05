@@ -1,6 +1,6 @@
 <!-- ================= HERO ================= -->
 <p align="center">
-  <img src="stills/blade_runner_city.webp" width="100%">
+  <img src="stills/a_brighter_summer_day_school.avif" width="100%">
 </p>
 <h1 align="center">
 Life in Frames.
