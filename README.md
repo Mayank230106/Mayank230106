@@ -33,8 +33,6 @@ When I'm away from my keyboard, I'm usually watching films that stay with me lon
   <img src="stills/true_detective_rust_with_martin.jpg" width="85%">
 </p>
 
-## 🎥 Director's Commentary
-
 Every project tells a story.
 
 Mine usually begin with curiosity—trying to understand how things work beneath the surface—and end with countless hours spent debugging, learning, and rebuilding.
