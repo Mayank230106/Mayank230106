@@ -247,14 +247,6 @@ While projects capture milestones, the journey is really made up of the small im
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayank230106/Mayank230106/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayank230106/Mayank230106/output/github-snake-spidey.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mayank230106/Mayank230106/output/github-snake-spidey.svg">
-  </picture>
-</div>
-
 
 <br>
 
