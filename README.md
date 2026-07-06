@@ -237,16 +237,15 @@ While projects capture milestones, the journey is really made up of the small im
 
 <br>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayank230106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mayank230106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <br>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230106&theme=tokyo-night&hide_border=true&radius=10" />
 </p>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br>
 
