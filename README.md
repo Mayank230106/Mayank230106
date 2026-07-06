@@ -262,25 +262,16 @@ I'm always looking to learn something new, build something meaningful, and conne
 <br>
 
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/mayank-raj-973363287/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
+  </a>
+  <a href="mailto:23je0569@iitism.ac.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Mayank230106">
+  </a>
+  <a href="https://github.com/Mayank230106">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  </a>
 </p>
-
 <br>
 
 <p align="center">
@@ -290,7 +281,7 @@ I'm always looking to learn something new, build something meaningful, and conne
     <img src="gifs/truman_show_bye_bye.gif" width="80%">
 </p>
 
-### Thanks for watching.
+<h3 align="center">Thanks for watching.</h3>
 <p align="center">
 <i>Until the next commit.</i>
 </p>
