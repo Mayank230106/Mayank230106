@@ -179,8 +179,8 @@ Competitive programming has shaped the way I approach software engineering. It h
 <br>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=github_dark" height="170"/>
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=contest" height="170"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=moankaee&theme=github_dark" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/mayank2006?theme=dark&font=Ubuntu&ext=contest" height="170"/>
 </p>
 
 <br>
