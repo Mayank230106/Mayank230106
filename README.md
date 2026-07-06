@@ -229,35 +229,29 @@ These are a few films, shows, and moments that have stayed with me—not because
 <br>
 
 > *"Every frame a painting. Every story a lesson."*
-# 📊 Box Office
+# 📊 Production Log
 
-Every commit adds another frame to the story.
+Every commit tells part of the story.
 
-Here's a snapshot of what I've been building.
+While projects capture milestones, the journey is really made up of the small improvements—the late-night debugging sessions, the experiments that didn't work, and the countless commits that slowly turn ideas into software.
 
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayank230106&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayank230106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mayank230106&theme=github-dark&hide_border=true"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230106&theme=tokyo-night&hide_border=true&radius=10" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230106&theme=github-dark&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayank230106&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+  <i>"Every commit is another frame in the story."</i>
 </p>
 
 ## 🎬 Closing Credits
