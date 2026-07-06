@@ -15,7 +15,7 @@ Software Engineering • Backend • Competitive Programming • Cinema
 
 ## 🎬 Opening Credits
 <p align="center">
-<img src="stills/interstellar_docking.jpg" width="80%">
+<img src="gifs/interstellar_gif.gif" width="80%">
 </p>
 
 
