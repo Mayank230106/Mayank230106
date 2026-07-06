@@ -164,11 +164,36 @@ Every project has been another opportunity to learn, experiment, and become a be
 - Progress tracking.
 - Productivity-focused design.
 
-## 🏆 Side Quests
+# 🏆 Training Montage
 
-...
+<p align="center">
+  <img src="stills/rocky_training.avif" width="85%">
+</p>
 
----
+Every engineer has a training montage.
+
+Mine happens to involve hundreds of programming contests, countless wrong answers, late-night debugging sessions, and the satisfaction of watching difficult problems slowly become familiar.
+
+Competitive programming has shaped the way I approach software engineering. It has taught me to think under pressure, recognize patterns, and break complex problems into smaller, manageable pieces—skills I carry into every project I build.
+
+<br>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=github_dark" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=contest" height="170"/>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ## 🎞 Favorite Frames
 
