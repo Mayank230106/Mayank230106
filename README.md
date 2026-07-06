@@ -84,7 +84,7 @@ These are the stories I'm working on at the moment.
 
 > "Every frame has a purpose. Every line of code should too."
 
-# 🎬 Filmography
+## 🎬 Filmography
 
 <p align="center">
   <img src="stills/blade_runner_gosling_and_ford.jpg" width="85%">
@@ -164,7 +164,7 @@ Every project has been another opportunity to learn, experiment, and become a be
 - Progress tracking.
 - Productivity-focused design.
 
-# 🏆 Training Montage
+## 🏆 Training Montage
 
 <p align="center">
   <img src="stills/rocky_training.avif" width="85%">
@@ -195,7 +195,7 @@ Competitive programming has shaped the way I approach software engineering. It h
   </a>
 </p>
 
-# 🎞 Favorite Frames
+## 🎞 Favorite Frames
 
 Some stories don't end when the credits roll.
 
@@ -229,7 +229,7 @@ These are a few films, shows, and moments that have stayed with me—not because
 <br>
 
 > *"Every frame a painting. Every story a lesson."*
-# 📊 Production Log
+## 📊 Production Log
 
 Every commit tells part of the story.
 
@@ -255,21 +255,21 @@ While projects capture milestones, the journey is really made up of the small im
 
 ## 🎬 Closing Credits
 
-#### Thanks for watching.
-
 Every repository here represents a lesson learned, a challenge overcome, or an idea that refused to stay on paper.
 
 I'm always looking to learn something new, build something meaningful, and connect with people who enjoy solving interesting problems.
 
+<br>
+
 <p align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mayank-raj-973363287/)">
+<a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 &nbsp;
 
-<a href="mailto:23je0569@iitism.ac.in">
+<a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -281,6 +281,19 @@ I'm always looking to learn something new, build something meaningful, and conne
 
 </p>
 
+<br>
+
+<p align="center">
+<i>
+
 <p align="center">
     <img src="gifs/truman_show_bye_bye.gif" width="80%">
+</p>
+
+### Thanks for watching.
+<p align="center">
+<i>Until the next commit.</i>
+</p>
+
+</i>
 </p>
