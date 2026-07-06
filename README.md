@@ -255,4 +255,32 @@ While projects capture milestones, the journey is really made up of the small im
 
 ## 🎬 Closing Credits
 
-...
+#### Thanks for watching.
+
+Every repository here represents a lesson learned, a challenge overcome, or an idea that refused to stay on paper.
+
+I'm always looking to learn something new, build something meaningful, and connect with people who enjoy solving interesting problems.
+
+<p align="center">
+
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mayank-raj-973363287/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="mailto:23je0569@iitism.ac.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Mayank230106">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+    <img src="gifs/truman_show_bye_bye.gif" width="80%">
+</p>
