@@ -235,20 +235,30 @@ Every commit adds another frame to the story.
 
 Here's a snapshot of what I've been building.
 
+<br>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayank230106&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+<br>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mayank230106&theme=github-dark&hide_border=true"/>
 </p>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230106&theme=github-dark&hide_border=true"/>
 </p>
+
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mayank230106&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=Mayank230106"/>
 
 ## 🎬 Closing Credits
 
