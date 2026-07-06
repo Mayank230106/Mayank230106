@@ -216,7 +216,7 @@ These are a few films, shows, and moments that have stayed with me—not because
 </p>
 
 <p align="center">
-  <img src="stills/taxi_driver_portrait.jpg" width="31%">
+  <img src="stills/heat_poster.jpg" width="31%">
   <img src="stills/blade_runner_you_seem_lonely.jpg" width="31%">
   <img src="stills/the_irishman_poster.jpg" width="31%">
 </p>
