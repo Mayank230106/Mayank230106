@@ -223,7 +223,7 @@ These are a few films, shows, and moments that have stayed with me—not because
 
 <p align="center">
   <img src="stills/dune2_arrakis.jpg" width="48%">
-  <img src="stills/the_departed.webp" width="48%">
+  <img src="gifs/mr_robot_chill.gif" width="48%">
 </p>
 
 <br>
