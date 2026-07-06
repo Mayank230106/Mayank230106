@@ -195,12 +195,40 @@ Competitive programming has shaped the way I approach software engineering. It h
   </a>
 </p>
 
-## 🎞 Favorite Frames
+# 🎞 Favorite Frames
 
-...
+Some stories don't end when the credits roll.
 
----
+These are a few films, shows, and moments that have stayed with me—not because they had the biggest twists or the loudest action, but because they continue to influence the way I think about people, curiosity, ambition, loneliness, craftsmanship, and storytelling.
 
+<br>
+
+<p align="center">
+  <img src="stills/blade_runner_city.webp" width="31%">
+  <img src="stills/interstellar_library.jpg" width="31%">
+  <img src="stills/true_detective_landscape.jpg" width="31%">
+</p>
+
+<p align="center">
+  <img src="gifs/goodfellas_gun_point.gif" width="31%">
+  <img src="stills/days-of-heaven-fields.jpg" width="31%">
+  <img src="stills/manchester_by_the_sea_anxiety.jpg" width="31%">
+</p>
+
+<p align="center">
+  <img src="stills/taxi_driver_portrait.jpg" width="31%">
+  <img src="stills/blade_runner_you_seem_lonely.jpg" width="31%">
+  <img src="stills/the_irishman_poster.jpg" width="31%">
+</p>
+
+<p align="center">
+  <img src="stills/dune2_arrakis.jpg" width="48%">
+  <img src="stills/the_departed.webp" width="48%">
+</p>
+
+<br>
+
+> *"Every frame a painting. Every story a lesson."*
 ## 📊 Box Office
 
 ...
