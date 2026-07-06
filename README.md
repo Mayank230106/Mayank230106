@@ -186,11 +186,11 @@ Competitive programming has shaped the way I approach software engineering. It h
 <br>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+  <a href="https://codeforces.com/profile/moankaee">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/mayank2006/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
