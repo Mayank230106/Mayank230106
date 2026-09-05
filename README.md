@@ -229,30 +229,6 @@ These are a few films, shows, and moments that have stayed with me—not because
 <br>
 
 > *"Every frame a painting. Every story a lesson."*
-## 📊 Production Log
-
-Every commit tells part of the story.
-
-While projects capture milestones, the journey is really made up of the small improvements—the late-night debugging sessions, the experiments that didn't work, and the countless commits that slowly turn ideas into software.
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mayank230106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<br>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank230106&theme=tokyo-night&hide_border=true&radius=10" />
-</p>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mayank230106&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-<br>
-
-<p align="center">
-  <i>"Every commit is another frame in the story."</i>
-</p>
 
 ## 🎬 Closing Credits
 
