@@ -57,32 +57,82 @@ These are the stories I'm working on at the moment.
 - 📚 Exploring operating systems, networking, and computer systems
 - 🚀 Building projects that make me a better software engineer, one commit at a time.
 
+
 ## 🎥 Production Equipment
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <i>A long time ago, in a repository not so far away...</i>
+</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
 
-<br>
+### EPISODE I
+## LANGUAGES
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
+C &nbsp; • &nbsp; C++ &nbsp; • &nbsp; Python &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; TypeScript
 
 </p>
 
-> "Every frame has a purpose. Every line of code should too."
+<br>
+
+<p align="center">
+
+### EPISODE II
+## BACKEND & WEB
+
+Node.js &nbsp; • &nbsp; Express.js &nbsp; • &nbsp; FastAPI &nbsp; • &nbsp; Flask
+
+Socket.IO &nbsp; • &nbsp; WebRTC &nbsp; • &nbsp; React
+
+</p>
+
+<br>
+
+<p align="center">
+
+### EPISODE III
+## DATA & INFRASTRUCTURE
+
+MySQL &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Redis
+
+Docker &nbsp; • &nbsp; Linux
+
+</p>
+
+<br>
+
+<p align="center">
+
+### EPISODE IV
+## THE FUNDAMENTALS
+
+Data Structures & Algorithms &nbsp; • &nbsp; OOP
+
+DBMS &nbsp; • &nbsp; Operating Systems
+
+Computer Networks &nbsp; • &nbsp; System Design
+
+</p>
+
+<br>
+
+<p align="center">
+
+### EPISODE V
+## THE TOOLS
+
+Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; CMake
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>May the source be with you.</i>
+</p>
+
 
 ## 🎬 Filmography
 
