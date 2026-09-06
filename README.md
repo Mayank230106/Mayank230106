@@ -60,71 +60,77 @@ These are the stories I'm working on at the moment.
 
 ## 🎥 Production Equipment
 
+<p align="center">
+  <i>A long time ago, in a repository not so far away...</i>
+</p>
+
 <br>
 
 <p align="center">
 
-<sub>A LONG TIME AGO, IN A REPOSITORY NOT SO FAR AWAY...</sub>
-
-<br><br>
-
-# EPISODE I
-
+### EPISODE I
 ## LANGUAGES
 
-C &nbsp; C++ &nbsp; Python  
-JavaScript &nbsp; TypeScript
+C &nbsp; • &nbsp; C++ &nbsp; • &nbsp; Python &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; TypeScript
 
-<br><br>
+</p>
 
-# EPISODE II
+<br>
 
+<p align="center">
+
+### EPISODE II
 ## BACKEND & WEB
 
-Node.js &nbsp; Express.js &nbsp; FastAPI &nbsp; Flask
+Node.js &nbsp; • &nbsp; Express.js &nbsp; • &nbsp; FastAPI &nbsp; • &nbsp; Flask
 
-Socket.IO &nbsp; WebRTC &nbsp; React
+Socket.IO &nbsp; • &nbsp; WebRTC &nbsp; • &nbsp; React
 
-<br><br>
+</p>
 
-# EPISODE III
+<br>
 
+<p align="center">
+
+### EPISODE III
 ## DATA & INFRASTRUCTURE
 
-MySQL &nbsp; MongoDB &nbsp; Redis
+MySQL &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; Redis
 
-Docker &nbsp; Linux
+Docker &nbsp; • &nbsp; Linux
 
-<br><br>
+</p>
 
-# EPISODE IV
+<br>
 
+<p align="center">
+
+### EPISODE IV
 ## THE FUNDAMENTALS
 
-Data Structures & Algorithms
+Data Structures & Algorithms &nbsp; • &nbsp; OOP
 
-Object-Oriented Programming
+DBMS &nbsp; • &nbsp; Operating Systems
 
-Database Management Systems
+Computer Networks &nbsp; • &nbsp; System Design
 
-Operating Systems
+</p>
 
-Computer Networks
+<br>
 
-System Design
+<p align="center">
 
-<br><br>
+### EPISODE V
+## THE TOOLS
 
-# EPISODE V
+Git &nbsp; • &nbsp; GitHub &nbsp;
 
-## THE TOOLING
+</p>
 
-Git &nbsp; GitHub &nbsp; CMake
+<br>
 
-<br><br><br>
-
-<i>May the source be with you.</i>
-
+<p align="center">
+  <i>May the source be with you.</i>
 </p>
 
 
